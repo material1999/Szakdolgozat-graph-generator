@@ -1,0 +1,1 @@
+# Szakdolgozat-graph-generator
